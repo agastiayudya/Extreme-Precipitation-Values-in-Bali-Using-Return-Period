@@ -14,7 +14,10 @@ For example, if a specific level of precipitation is associated with a 10-year r
 3. Recommendations for infrastructure improvements and disaster preparedness measures
 
 ### Dataset Link
-https://drive.google.com/file/d/1R0-OedY8Lhc-YyrW52pLg1rS5-mGzhU7/view?usp=sharing
+CHRIPS Data: https://drive.google.com/file/d/1R0-OedY8Lhc-YyrW52pLg1rS5-mGzhU7/view?usp=sharing  
+Spatial Resolution: 0.1° x 0.1°
+Temporal Resolution: Daily (1981-2015)
 
 ### Flowchart
-![extreme](https://github.com/agastiayudya/Precipitation_Extreme_Value_With_Return_Period/assets/96803882/ed25a4f9-82e4-4658-aa2b-f361977177b3)
+![extreme](https://github.com/agastiayudya/Extreme-Precipitation-Values-in-Bali-Using-Return-Period/assets/96803882/8462a702-d2c0-4f2e-ad4a-52131234d601)
+
