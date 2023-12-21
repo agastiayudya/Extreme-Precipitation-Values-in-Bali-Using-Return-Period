@@ -15,7 +15,7 @@ For example, if a specific level of precipitation is associated with a 10-year r
 
 ### Dataset Link
 CHRIPS Data: https://drive.google.com/file/d/1R0-OedY8Lhc-YyrW52pLg1rS5-mGzhU7/view?usp=sharing  
-Spatial Resolution: 0.1° x 0.1°
+Spatial Resolution: 0.1° x 0.1°  
 Temporal Resolution: Daily (1981-2015)
 
 ### Flowchart
